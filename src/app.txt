@@ -1,1 +1,2 @@
 DevOps Git Workflow Project
+Git-based DevOps workflow successfully configured.
