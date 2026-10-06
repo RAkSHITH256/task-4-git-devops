@@ -43,3 +43,7 @@ dev
 Pull Request
 ↓
 main
+
+## Version 1.0.0
+
+Initial version-controlled DevOps project release.
